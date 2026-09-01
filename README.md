@@ -3,5 +3,5 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,firebase,gcp,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,gcp,postgres)](https://skillicons.dev)
 
