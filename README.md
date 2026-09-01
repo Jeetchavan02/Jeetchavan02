@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
 <div align="center">
-  <img src="nyan cat.gif" width="200">
+  <img src="nyan%20cat.gif" width="200">
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jeetchavan02&theme=radical)
