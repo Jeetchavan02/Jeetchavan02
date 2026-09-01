@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome!&fontSize=50)
-##  Hi there 👋, I'm Jeet Chavan!
+## Hi there 👋, I'm Jeet Chavan!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jeetchavan02&theme=radical)
 <img src="Nyan cat.gif" width="150" align="right">
