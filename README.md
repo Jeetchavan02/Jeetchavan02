@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- HEADER: Venom-type capsule render, no name, purple-indigo-cyan gradient -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A0DAD,50:9B59B6,100:00BFFF&height=220&section=header&text=%3C%2F%3E&fontSize=90&animation=twinkling&fontColor=ffffff&fontAlignY=40" alt="Header" />
+<!-- HEADER: shark-type capsule render — valid, purple-indigo-cyan, no name -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,30:6A0DAD,70:9B59B6,100:00BFFF&height=200&section=header&text=%3C%2F%3E&fontSize=90&fontColor=ffffff&fontAlignY=60&animation=fadeIn" alt="Header" />
 
 <!-- Typing SVG — Dracula palette purple -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=520&lines=Software+Developer+%F0%9F%92%BB;Building+modern+web+apps+%F0%9F%9A%80;Turning+caffeine+into+code+%E2%98%95;Always+learning%2C+never+stopping+%F0%9F%93%9A" alt="Typing SVG" />
@@ -15,8 +15,8 @@
 
 <br/>
 
-<!-- 🐱 NYAN CAT DIVIDER — thin and wide, right after socials -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.gif" alt="nyan cat divider" width="100%" />
+<!-- 🐱 NYAN CAT DIVIDER — uses repo's own gif, full width -->
+<img src="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/main/Nyan%20cat.gif" alt="nyan cat divider" width="100%" height="40" />
 
 </div>
 
@@ -71,13 +71,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&cache_seconds=1800" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=Jeetchavan02&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
@@ -86,7 +86,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&bg_color=0D1117&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&bg_color=0D1117&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&hide_border=true&area_color=6A0DAD" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
