@@ -19,7 +19,7 @@
 
 ```javascript
 const jeet = {
-  location:  "Mumbai, India",
+  location:  "Mumbai, India 🇮🇳",
   education: "B.Tech Computer Engineering @ Fr. CRCE",
   focus:     ["Full-Stack Dev", "AI/ML", "Civic Tech"],
   currentlyBuilding: "things that actually matter",
@@ -65,8 +65,8 @@ const jeet = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 
 <br/>
 
