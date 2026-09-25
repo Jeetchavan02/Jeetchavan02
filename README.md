@@ -19,7 +19,7 @@
 
 ```javascript
 const jeet = {
-  location:  "Mumbai, India 🇮🇳",
+  location:  "Mumbai, India",
   education: "B.Tech Computer Engineering @ Fr. CRCE",
   focus:     ["Full-Stack Dev", "AI/ML", "Civic Tech"],
   currentlyBuilding: "things that actually matter",
