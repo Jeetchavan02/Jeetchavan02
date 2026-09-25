@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Jeetchavan02&label=Profile+Views&color=blueviolet&style=flat-square" />
 
 </div>
 
@@ -65,16 +65,16 @@ const jeet = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetchavan02&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -84,9 +84,9 @@ const jeet = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
