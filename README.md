@@ -90,7 +90,6 @@ const jeet = {
   </picture>
 </div>
 
-> ⚙️ **To enable the snake:** Go to your profile repo → Actions → New workflow → paste [this config](https://github.com/Platane/snk#readme) → it auto-generates the SVG on a schedule.
 
 ---
 
