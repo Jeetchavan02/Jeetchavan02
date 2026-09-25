@@ -66,7 +66,7 @@ const jeet = {
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+
 
 <br/>
 
@@ -74,7 +74,7 @@ const jeet = {
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
+
 
 </div>
 
