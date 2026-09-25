@@ -65,16 +65,16 @@ const jeet = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeetchavan02&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Jeetchavan02&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" width="95%"/>
 
 </div>
 
@@ -86,7 +86,7 @@ const jeet = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
