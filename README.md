@@ -1,113 +1,99 @@
 <div align="center">
 
-<!-- HEADER: shark-type capsule render — valid, purple-indigo-cyan, no name -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,30:6A0DAD,70:9B59B6,100:00BFFF&height=200&section=header&text=%3C%2F%3E&fontSize=90&fontColor=ffffff&fontAlignY=60&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jeet%20Chavan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Engineer%20·%20Full-Stack%20Dev%20·%20Problem%20Solver&descAlignY=55&descSize=16"/>
 
-<!-- Typing SVG — Dracula palette purple -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=520&lines=Software+Developer+%F0%9F%92%BB;Building+modern+web+apps+%F0%9F%9A%80;Turning+caffeine+into+code+%E2%98%95;Always+learning%2C+never+stopping+%F0%9F%93%9A" alt="Typing SVG" />
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeetchavan02)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeetchavan02)
-[![GitHub](https://img.shields.io/badge/GitHub-BD93F9?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/Jeetchavan02)
-
-<br/>
-
-<!-- 🐱 NYAN CAT DIVIDER — uses repo's own gif, full width -->
-<img src="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/main/Nyan%20cat.gif" alt="nyan cat divider" width="100%" height="40" />
-
-</div>
-
-<br/>
-
-<!-- TERMINAL INTRO BLOCK -->
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ whoami                                                   │
-│   ▶  Jeet Chavan — Software Developer                        │
-│                                                              │
-│   $ cat skills.txt                                           │
-│   ▶  React · TypeScript · Python · GCP · PostgreSQL          │
-│                                                              │
-│   $ echo $STATUS                                             │
-│   ▶  Building cool things & learning every day ✨             │
-│                                                              │
-│   $ _                                                        │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,python,postgres,gcp&theme=dark" alt="languages" />
-</a>
+<a href="mailto:jeetnchavan02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-**Tools & Platforms**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,nodejs,linux,figma,tailwind&theme=dark" alt="tools" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=flat-square" />
 
 </div>
 
-<br/>
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const jeet = {
+  location:  "Mumbai, India 🇮🇳",
+  education: "B.Tech Computer Engineering @ Fr. CRCE",
+  focus:     ["Full-Stack Dev", "AI/ML", "Civic Tech"],
+  currentlyBuilding: "things that actually matter",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+**AI / Computer Vision**
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&cache_seconds=1800" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=Jeetchavan02&theme=dracula&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeetchavan02&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
-<br/>
+---
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeetchavan02&bg_color=0D1117&color=BD93F9&line=FF79C6&point=8BE9FD&area=true&hide_border=true&area_color=6A0DAD" alt="Activity Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-<br/>
+> ⚙️ **To enable the snake:** Go to your profile repo → Actions → New workflow → paste [this config](https://github.com/Platane/snk#readme) → it auto-generates the SVG on a schedule.
 
-## 🐍 Contribution Slither
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/output/snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
-
-<br/>
-
-<div align="center">
-
-  <img src="Nyan%20cat.gif" width="80" alt="Nyan Cat" />
-
-  <br/>
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Jeetchavan02&style=for-the-badge&color=BD93F9&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:9B59B6,100:6A0DAD&height=120&section=footer" alt="Footer" />
