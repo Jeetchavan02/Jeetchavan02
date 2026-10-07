@@ -81,5 +81,3 @@ const jeet = {
 
 </div>
 
-
-i wnat to change the head and footer design into something better give me a suggestion
