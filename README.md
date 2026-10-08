@@ -81,7 +81,7 @@ const jeet = {
 
 <div align="center">
 
-![Nyan Cat](https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/main/nyan%20cat.gif)
+![Nyan Cat](https://raw.githubusercontent.com/Jeetchavan02/Jeetchavan02/main/nyancat.gif)
 
 </div>
 
