@@ -12,10 +12,6 @@
 
 </div>
 
-<br/><br/>
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -27,7 +23,7 @@ const jeet = {
   focus:     ["Full-Stack Dev", "AI/ML", "Civic Tech"],
   currentlyBuilding: "things that actually matter",
 };
-` `` `
+```
 
 ---
 
@@ -96,6 +92,3 @@ const jeet = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
-```
-
-The Nyan Cat line is:
