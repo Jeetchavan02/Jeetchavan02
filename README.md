@@ -79,6 +79,10 @@ const jeet = {
 
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Jeetchavan02&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="60%"/>
+
+<br/><br/>
+
 </div>
 
 ---
