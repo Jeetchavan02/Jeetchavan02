@@ -8,6 +8,10 @@
 <a href="https://drive.google.com/drive/folders/1g-pu0NpA4z7rvP-XjzHBR99ZsQoFNir8"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://github.com/Jeetchavan02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Jeetchavan02&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 <br/><br/>
 
 </div>
