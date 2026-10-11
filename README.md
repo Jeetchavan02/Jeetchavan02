@@ -10,7 +10,7 @@
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jeetchavan02&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://hits.sh/github.com/Jeetchavan02/Jeetchavan02.svg?style=for-the-badge&label=PROFILE+VIEWS&color=blueviolet)
 
 <br/><br/>
 
