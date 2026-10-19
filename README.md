@@ -29,34 +29,12 @@ const jeet = {
     "Native macOS Development"
   ],
   currentlyBuilding: [
-    "WHAT IF — Software Change Impact Analyzer",
+    "Software Engineering Tools",
     "Native macOS Utilities"
   ],
   philosophy: "Build things that solve real problems."
 };
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🔮 WHAT IF — Software Change Impact Analyzer
-
-A developer tool that combines source-code dependency analysis and Git history to explore change impact, historical coupling and software risk.
-
-- Python-based repository analysis
-- FastAPI backend and PostgreSQL database
-- Git history and co-change analysis
-- BFS-based dependency traversal and interactive graph visualization
-- Risk assessment API and reviewer recommendations
-
-**Stack:** Python · FastAPI · PostgreSQL · JavaScript
-
-### 🍎 GitHub Contribution Widget for macOS
-
-A lightweight native macOS utility that displays GitHub contribution activity in compact widget layouts.
-
-**Stack:** Swift · SwiftUI · WidgetKit · macOS
 
 ---
 
